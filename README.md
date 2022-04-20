@@ -45,7 +45,7 @@ To compile and edit the game, we copy the **\YourEngine\Engine\Plugins\Online\On
 <li class="has-line-data" data-line-start="27" data-line-end="30">Boyutundan dolayı projenin tamamı yüklenememiştir. Projeye tamamen erişmek istiyorsanız buradan indirebilirsiniz.
 <br>
 Due to its size, the entire project could not be loaded. If you want full access to the project, you can download it here.<br>
-<a href="https://drive.google.com/drive/folders/1IZzvYKSwXRMQo4Fc4N1xumMJD_-yWMHg?usp=sharing">Source Code</a></li>
+<a href="https://drive.google.com/file/d/1a125kBrgLtBEMq_jHsNNjXtDjyEiuzXU/view?usp=sharing">Source Code</a></li>
 </ul>
 <h1 class="code-line" data-line-start=30 data-line-end=31 ><a id="License_30"></a>License</h1>
 <hr>
