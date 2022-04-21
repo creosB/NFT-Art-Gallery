@@ -1,4 +1,4 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="nft_art_gallery"></a>NFT Art Gallery</h1>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="nft_art_gallery"></a>Cross-Platform NFT Art Gallery</h1>
 <h2 class="code-line" data-line-start=2 data-line-end=4 ><a id="NSolidhttpsplaylhgoogleusercontentcom4ChxU_bzuJe8ix7IC7fYOq5xH3rtDjDMFogy4NsF6l8jNH9Q_G7zQUWoZtWvkliyww2247h1264rwhttpwwwartistscompanydigital_2"></a><a href="http://www.artistscompany.tech"><img src="https://raw.githubusercontent.com/creosB/presentation/main/background.png" alt="N|Solid"></a></h2>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="1987_yapm_Contrann_Unreal_Engine_uyarlamas_olan_ve_8_blmden_oluan_bir_oyun_2"></a>Fiziksel sergi ortamını dijitale taşısaydık nasıl olurdu diye düşünerek Unreal Engine'de Metahuman, Binance ve OpenSea kullanarak bir sanat galerisi oluşturdum. Arkadaşlarınızı davet edebileceğiniz veya çok oyunculu bir şekilde başka insanlarla tanışabileceğiniz bir alan yarattığımı düşündüğüm için sizlerle paylaşmak istedim. 
 <br>
