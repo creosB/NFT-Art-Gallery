@@ -2,7 +2,7 @@
 <h2 class="code-line" data-line-start=2 data-line-end=4 ><a id="NSolidhttpsplaylhgoogleusercontentcom4ChxU_bzuJe8ix7IC7fYOq5xH3rtDjDMFogy4NsF6l8jNH9Q_G7zQUWoZtWvkliyww2247h1264rwhttpwwwartistscompanydigital_2"></a><a href="http://www.artistscompany.tech"><img src="https://raw.githubusercontent.com/creosB/presentation/main/background.png" alt="N|Solid"></a></h2>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="1987_yapm_Contrann_Unreal_Engine_uyarlamas_olan_ve_8_blmden_oluan_bir_oyun_2"></a>Fiziksel sergi ortamını dijitale taşısaydık nasıl olurdu diye düşünerek Unreal Engine'de Metahuman, Binance ve OpenSea kullanarak bir sanat galerisi oluşturdum. Arkadaşlarınızı davet edebileceğiniz veya çok oyunculu bir şekilde başka insanlarla tanışabileceğiniz bir alan yarattığımı düşündüğüm için sizlerle paylaşmak istedim. 
 <br>
-Tüm bunlara ek olarak, beyaz listeye katılanların NFT yayınlarken ön gösterim yapabilecekleri ve satın alabilecekleri bir alan oluşturdum.</h2>
+Tüm bunlara ek olarak, ön gösterime katılanların NFT yayınlarken ön gösterimden faydalanabilecekleri ve satın alabilecekleri bir alan oluşturdum.</h2>
 <h2 class="code-line" data-line-start=3 data-line-end=4 ><a id="It_is_an_Unreal_Engine_adaptation_of_1987s_Contra_and_consists_of_8_episodes_3"></a>I created an NFT Art Gallery using Metahuman, Binance, and OpenSea in Unreal Engine, thinking about what it would be like if we moved the physical exhibition environment to digital. I wanted to share it with you because I thought have created a space where you can invite your friends or meet other people in a multiplayer way.
 <br>
 In addition to all these, an area has been created where the whitelist participants can preview and buy while publishing NFT.</h2>
