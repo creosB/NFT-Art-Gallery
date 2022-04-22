@@ -1,4 +1,4 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="nft_art_gallery"></a>Cross-Platform NFT Art Gallery</h1>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="nft_art_gallery"></a>Cross-Platform Multiplayer NFT Art Gallery</h1>
 <h2 class="code-line" data-line-start=2 data-line-end=4 ><a id="NSolidhttpsplaylhgoogleusercontentcom4ChxU_bzuJe8ix7IC7fYOq5xH3rtDjDMFogy4NsF6l8jNH9Q_G7zQUWoZtWvkliyww2247h1264rwhttpwwwartistscompanydigital_2"></a><a href="http://www.artistscompany.tech"><img src="https://raw.githubusercontent.com/creosB/presentation/main/background.png" alt="N|Solid"></a></h2>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="1987_yapm_Contrann_Unreal_Engine_uyarlamas_olan_ve_8_blmden_oluan_bir_oyun_2"></a>Fiziksel sergi ortamını dijitale taşısaydık nasıl olurdu diye düşünerek Unreal Engine'de Metahuman, Binance ve OpenSea kullanarak bir sanat galerisi oluşturdum. Arkadaşlarınızı davet edebileceğiniz veya çok oyunculu bir şekilde başka insanlarla tanışabileceğiniz bir alan yarattığımı düşündüğüm için sizlerle paylaşmak istedim. 
 <br>
@@ -16,10 +16,6 @@ Since NFT is an art gallery, I chose the most used platform, namely OpenSea. Apa
 <li class="has-line-data" data-line-start="7" data-line-end="9">EOS (epic online services) ve dedicated server kullanarak cross-platform multiplayer sistem oluşturdum. Bunun sayesinde hem Steam hem Epic Games'de olan arkadaşlarınızla birlikte oynayabilirsiniz.
 <br>
 I created a cross-platform multiplayer system using EOS (epic online services) and a dedicated server. Thanks to this, you can play with your friends who are on both Steam and Epic Games.
-</li>
-<li class="has-line-data" data-line-start="9" data-line-end="11">Kaynak kodları düzenlenmemiştir. Bundan dolayı eğer geliştirmek isteyen olursa fork isteğinde bulunması yeterlidir.
-<br>
-Source codes are not edited. Therefore, if anyone wants to improve, it is sufficient to request a fork.</li>
 <li class="has-line-data" data-line-start="11" data-line-end="13">C++ ile geliştirilmiştir.<br>
 Developed with C++.</li>
 <li class="has-line-data" data-line-start="13" data-line-end="14">Oyunun oynanabilir haline alt taraftan ulaşabilirsiniz. (You can reach the playable version of the game from the bottom.)</li>
