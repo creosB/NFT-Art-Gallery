@@ -34,8 +34,9 @@ Developed with C++.</li>
 <li class="has-line-data" data-line-start="25" data-line-end="27">Oyunu derlemek ve düzenlemek için **\YourEngine\Engine\Plugins\Online\OnlineSubsystemEOS** klasörünü kopyalayıp projemizin olduğu klasöre gelip plugin klasörü oluşturduktan sonra içine atıyoruz.<br>
 To compile and edit the game, we copy the **\YourEngine\Engine\Plugins\Online\OnlineSubsystemEOS** folder, come to the folder where our project is located, create the plugin folder and put it in.</li>
 <li class="has-line-data" data-line-start="25" data-line-end="27"><p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://github.com/creosB/UnrealScriptsandNotes/blob/main/Unreal%20Engine%20Scripts%20and%20Notes.md#eos-kullan%C4%B1m%C4%B1">Oyunu test etmek için alt kısımda bulunan ayarları yapmayı unutmayın eğer yapmazsanız, aynı bilgisayar üzerinde test edemezsiniz</a></p>
-<br>
 <p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://github.com/creosB/UnrealScriptsandNotes/blob/main/Unreal%20Engine%20Scripts%20and%20Notes.md#eos-kullan%C4%B1m%C4%B1">Do not forget to adjust the settings below to test the game, if you do not, you cannot test it on the same computer.</a></p></li>
+<li class="has-line-data" data-line-start="25" data-line-end="27"><p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://testnets-api.opensea.io/api/v1/assets?order_direction=desc&offset=0&limit=50&collection=fake-mutant-ape-yacht-club">OpenSea API Link</a></p>
+</li>
 </ul>
 </li>
 <li class="has-line-data" data-line-start="27" data-line-end="30">Boyutundan dolayı projenin tamamı yüklenememiştir. Projeye tamamen erişmek istiyorsanız buradan indirebilirsiniz.
