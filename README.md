@@ -31,11 +31,12 @@ Developed with C++.</li>
 <ul>
 <li class="has-line-data" data-line-start="25" data-line-end="27">
 <ul>
+<li class="has-line-data" data-line-start="25" data-line-end="27">If you press the play button, the download may not work because the collection names in the project have been changed. Therefore, you need to replace them with the new collection names you want. For example, when you select any painting in the digital art section of the gallery, I used to use "fake-mutant-ape-yacht-club" as the "Collection Name" value. Since the collection has been removed, changing it to "boredapeyachtclubgoerli" will update the texture. You can use the details panel of the actor in the digital art section for changing values. Changing the "image_url" in the API doesn't affect the code that has been written in any way.</li>
 <li class="has-line-data" data-line-start="25" data-line-end="27">Oyunu derlemek ve düzenlemek için **\YourEngine\Engine\Plugins\Online\OnlineSubsystemEOS** klasörünü kopyalayıp projemizin olduğu klasöre gelip plugin klasörü oluşturduktan sonra içine atıyoruz.<br>
 To compile and edit the game, we copy the **\YourEngine\Engine\Plugins\Online\OnlineSubsystemEOS** folder, come to the folder where our project is located, create the plugin folder and put it in.</li>
 <li class="has-line-data" data-line-start="25" data-line-end="27"><p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://github.com/creosB/UnrealScriptsandNotes/blob/main/Unreal%20Engine%20Scripts%20and%20Notes.md#eos-kullan%C4%B1m%C4%B1">Oyunu test etmek için alt kısımda bulunan ayarları yapmayı unutmayın eğer yapmazsanız, aynı bilgisayar üzerinde test edemezsiniz</a></p>
 <p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://github.com/creosB/UnrealScriptsandNotes/blob/main/Unreal%20Engine%20Scripts%20and%20Notes.md#eos-kullan%C4%B1m%C4%B1">Do not forget to adjust the settings below to test the game, if you do not, you cannot test it on the same computer.</a></p></li>
-<li class="has-line-data" data-line-start="25" data-line-end="27"><p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://testnets-api.opensea.io/api/v1/assets?order_direction=desc&offset=0&limit=50&collection=fake-mutant-ape-yacht-club">OpenSea API Link</a></p>
+<li class="has-line-data" data-line-start="25" data-line-end="27"><p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://testnets-api.opensea.io/api/v1/assets?order_direction=desc&offset=0&limit=50&collection=boredapeyachtclubgoerli">OpenSea API Link</a></p>
 </li>
 </ul>
 </li>
